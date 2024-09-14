@@ -1,4 +1,4 @@
-// File: /media/deepesh/New Volume/Frontend-Development/OnlineLearning/LearningTube/leaningtube/app/page.js
+// File: /home/deepesh/Desktop/LearningTube/leaningtube/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
